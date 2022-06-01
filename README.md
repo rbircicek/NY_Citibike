@@ -44,7 +44,6 @@ Trips by Gender/Usertype for Weekdays
 
 # Summary
     For NYC the busiest hours are morning and evening hours which are parallel to the business hours and this makes sense. Customers who are tourists have a significant part among the users. However, Des Moines do not attract that many tourists and the business should solely rely on the subscribers who are the city inhabitants. In the winter time there may be way less demand for bikes due to weather conditions in Des Moines. Besides the conditions and spread of the bike lanes are important factors to affect the business operations.
-
     Calculating bike repairs that include transfering bikes to the warehouses to repair and to reimburse the bike users to the malfucntions will also affect the decision of the investors. This data should also to be evluated to make a more profitable decision.
     
 
